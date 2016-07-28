@@ -17,7 +17,7 @@
 		"vmSize": {
 			"type": "string",
 			"allowedValues": [
-				"Standard_D1",
+				"Standard_A0",
 				"Standard_DS1",
 				"Standard_D2",
 				"Standard_DS2",
